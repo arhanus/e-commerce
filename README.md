@@ -1,4 +1,4 @@
-How to run project:
+How to run after you cloned the project:
 1) create a mongodb project from cloud.mongodb.com
 2) copy the connection URL 
 3) create a .env file in root
@@ -7,8 +7,3 @@ How to run project:
 6) paste this to .env -> AUTH_URL = http://localhost:3000/api/auth;
 7) npm install (for installing node modules)
 8) npm run dev
-
-
-
-
-
